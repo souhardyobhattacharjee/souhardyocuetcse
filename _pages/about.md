@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Greetings! "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Greetings! I am Souhardyo Bhattacharjee, a Lecturer in the Department of Computer Science and Engineering at Northern University Bangladesh.
+I am Souhardyo Bhattacharjee, a Lecturer in the Department of Computer Science and Engineering at Northern University Bangladesh.
 
 I completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET), graduating with a CGPA of 3.63/4.00 (Ranked 22nd among 131 students). My research interests primarily focus on Computer Vision, Image Processing, Deep Learning, and Machine Learning.
 
