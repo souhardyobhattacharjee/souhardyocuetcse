@@ -7,15 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Souhardyo Bhattacharjee, a Lecturer in the Department of Computer Science and Engineering at Northern University Bangladesh.
-
-I completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET), graduating with a CGPA of 3.63/4.00 (Ranked 22nd among 131 students). My research interests primarily focus on Computer Vision, Image Processing, Deep Learning, and Machine Learning.
-
-My research work centers on developing intelligent and practical AI-driven solutions. I have contributed to multiple research publications in areas such as medical image analysis, sports video classification, decentralized identity systems, and disease detection using deep learning. Several of my works have been published in IEEE conferences, and some are currently accepted for upcoming conferences.
-
-I have also worked on various applied machine learning projects, including a currency recognition system using deep learning models such as VGG19 and EfficientNet, a house price prediction system using classical machine learning algorithms, and an intrusion detection system for network security.
-
-Alongside my academic and research pursuits, I have been actively involved in mentoring and community activities through the CUET Computer Club, where I guided junior students in programming and problem-solving. I am passionate about leveraging AI to solve real-world problems and continuously expanding my knowledge in emerging technologies.
+I am Souhardyo Bhattacharjee, Lecturer in the Department of Computer Science and Engineering at Northern University Bangladesh.
+I completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET), graduating with a CGPA of 3.63/4.00 (Ranked 22nd among 131 students). My research interests primarily focus on Computer Vision, Image Processing, Deep Learning, and Machine Learning. My research work centers on developing intelligent and practical AI-driven solutions. I have contributed to multiple research publications in areas such as medical image analysis, sports video classification, decentralized identity systems, and disease detection using deep learning. Several of my works have been published in IEEE conferences, and some are currently accepted for upcoming conferences. I have also worked on various applied machine learning projects, including a currency recognition system using deep learning models such as VGG19 and EfficientNet, a house price prediction system using classical machine learning algorithms, and an intrusion detection system for network security. Alongside my academic and research pursuits, I have been actively involved in mentoring and community activities through the CUET Computer Club, where I guided junior students in programming and problem-solving. I am passionate about leveraging AI to solve real-world problems and continuously expanding my knowledge in emerging technologies.
 
 
 A data-driven personal website
