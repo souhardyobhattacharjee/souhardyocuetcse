@@ -7,9 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Greetings! I am Souhardyo Bhattacharjee, a Lecturer in the Department of Computer Science and Engineering at Northern University Bangladesh.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET), graduating with a CGPA of 3.63/4.00 (Ranked 22nd among 131 students). My research interests primarily focus on Computer Vision, Image Processing, Deep Learning, and Machine Learning.
+
+My research work centers on developing intelligent and practical AI-driven solutions. I have contributed to multiple research publications in areas such as medical image analysis, sports video classification, decentralized identity systems, and disease detection using deep learning. Several of my works have been published in IEEE conferences, and some are currently accepted for upcoming conferences.
+
+I have also worked on various applied machine learning projects, including a currency recognition system using deep learning models such as VGG19 and EfficientNet, a house price prediction system using classical machine learning algorithms, and an intrusion detection system for network security.
+
+Alongside my academic and research pursuits, I have been actively involved in mentoring and community activities through the CUET Computer Club, where I guided junior students in programming and problem-solving. I am passionate about leveraging AI to solve real-world problems and continuously expanding my knowledge in emerging technologies.
+
 
 A data-driven personal website
 ======
