@@ -26,9 +26,9 @@ author:
   avatar           : "l.jpeg"
   name             : "Souhardyo Bhattacharjee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Lecturer, CSE @ Northern University Bangladesh"
   location         : "Dhaka"
-  employer         : "Northern University Bangladesh"
+  employer         : # URL
   uri              : # URL
   email            : "souhardyobhattacharya@gmail.com" 
 
